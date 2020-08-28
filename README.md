@@ -1,5 +1,5 @@
-# newcloud
-newcloud server on docker
+# owncloud
+owncloud server on docker
 this repo contains the docker-compose.yml file which can be simply executed in your own docker container
 requirements:
 1.Docker container
